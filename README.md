@@ -9,5 +9,5 @@ Management & Computer Science graduate (LUISS, 110/110 cum laude), now pursuing 
 
 **Stack:** Python (pandas, scikit-learn, Pydantic AI, Streamlit) · SQL · R · Django · Power BI / Tableau
 
-[micheleturco3@gmail.com](micheleturco3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/michele-turco-11b249268)
+[micheleturco3@gmail.com](mailto:micheleturco3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/michele-turco-11b249268)
 
