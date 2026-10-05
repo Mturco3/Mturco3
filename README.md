@@ -1,10 +1,13 @@
-### Hi, I'm Michele 
+### Hi, I'm Michele
 
-Management & Computer Science graduate (LUISS, 110/110 cum laude), now pursuing an M.Sc. in Data Science. I like building things where data, code, and clear reasoning meet.
+Management & Computer Science graduate (LUISS, 110/110 cum laude), now pursuing an M.Sc. in Data Science and Management. I like building things where data, code, and clear reasoning meet.
 
-**Featured project — [Multi-Agent-Data_Quality](https://github.com/Mturco3/Multi-Agent-Data_Quality)**
-A multi-agent system for tabular data-quality validation and cleaning, built with Pydantic AI — deterministic profiling + LLM agents on a short leash, host-side code verification, and a Streamlit interface. Built for public-sector (NoiPA) data in collaboration with Reply.
+**Featured projects**
+- **[Multi-Agent-Data_Quality](https://github.com/Mturco3/Multi-Agent-Data_Quality)**: a multi-agent system for tabular data-quality validation and cleaning, built with Pydantic AI. It combines deterministic
+   profiling with LLM agents on a short leash, host-side code verification, and a Streamlit interface. Built for public-sector (NoiPA) data in collaboration with Reply.
+- **[Multiagent-pdf-parser](https://github.com/Mturco3/Multiagent-pdf-parser)**: a multi-agent system that extracts text, images, tables, and diagrams from PDFs and turns them into structured Markdown.
 
-**Other things I work with:** Python (pandas, scikit-learn) · SQL · R · Django · Power BI / Tableau
+**Stack:** Python (pandas, scikit-learn, Pydantic AI, Streamlit) · SQL · R · Django · Power BI / Tableau
 
-📫 [micheleturco3@gmail.com](mailto:micheleturco3@gmail.com) · [LinkedIn](www.linkedin.com/in/michele-turco-11b249268)
+[micheleturco3@gmail.com](micheleturco3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/michele-turco-11b249268)
+
